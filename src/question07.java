@@ -17,9 +17,7 @@ public class question07 {
         number = sc.nextInt();
         dobro = number*2;
         terco= number/3;
-
-
-
-
+        System.out.println("O dobro de " +number+ " é: " +dobro);
+        System.out.println("O terço de " +number+ " é: " +terco);
     }
 }
