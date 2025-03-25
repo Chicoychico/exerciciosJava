@@ -12,7 +12,14 @@ import java.util.Scanner;
 public class question07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        float number,dobro,terco;
         System.out.println("Escreva um numero aleatório");
+        number = sc.nextInt();
+        dobro = number*2;
+        terco= number/3;
+
+
+
 
     }
 }
