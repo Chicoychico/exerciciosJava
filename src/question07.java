@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class question07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Escreva um numero aleatório");
 
     }
 }
