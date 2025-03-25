@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  7) Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a
  sua terça parte.
@@ -9,6 +11,7 @@
  */
 public class question07 {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
     }
 }
