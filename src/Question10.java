@@ -3,7 +3,7 @@ import java.util.Scanner;
  mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
  sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
  */
-public class question10 {
+public class Question10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Insira Altura:");

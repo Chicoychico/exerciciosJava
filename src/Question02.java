@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question02 {
+public class Question02 {
     public static void main(String[] args) {
         String name;
         System.out.println("What your name?");

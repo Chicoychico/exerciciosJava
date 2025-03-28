@@ -2,7 +2,7 @@ import java.util.Scanner;
 /** 9) Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$)
 e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
  */
-public class question09 {
+public class Question09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Quanto voce tem na carteira? ");

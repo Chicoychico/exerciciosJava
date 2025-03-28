@@ -3,7 +3,7 @@ import java.util.Scanner;
 salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25
 por hora trabalhada. */
 
-public class question15 {
+public class Question15 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Quantas dias voce trabalhou nesse mês? ");

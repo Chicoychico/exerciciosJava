@@ -6,7 +6,7 @@ import java.util.Scanner;
  A distância de 85.7m corresponde a:
  0.18572Km; 1.8572Hm; 18.572Dam; 1857.2dm; 18572.0cm; 185720.0mm
  */
-public class question08 {
+public class Question08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double metros,km,hm,dam,dm,cm,mm;

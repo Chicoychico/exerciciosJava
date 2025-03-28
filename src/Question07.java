@@ -8,7 +8,7 @@ import java.util.Scanner;
  A terça parte de 3.5 é 1.16666
 
  */
-public class question07 {
+public class Question07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         float number,dobro,terco;

@@ -8,7 +8,7 @@ O antecessor de 9 é 8
 O sucessor de 9 é 10
 
  */
-public class question06 {
+public class Question06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n,antecessor,sucessor;

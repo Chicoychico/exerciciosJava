@@ -2,7 +2,7 @@ import java.util.Scanner;
 /** 12) Crie um programa que leia o preço de um produto, calcule e mostre o seu
         PREÇO PROMOCIONAL, com 5% de desconto.
 */
-public class question12 {
+public class Question12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Qual o valor do produto? ");
