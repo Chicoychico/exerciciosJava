@@ -7,7 +7,7 @@ public class Question42 {
         int test= sc.nextInt(), i=0;
         System.out.print("Contagem: ");
         while (i<=test){
-            System.out.print(i+", ");
+            System.out.println(i+", ");
             i++;
         }
         System.out.println("Acabou!!");
