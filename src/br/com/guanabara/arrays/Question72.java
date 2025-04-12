@@ -20,5 +20,8 @@ public class Question72 {
         for (int i = 0; i < array.length; i++) {
             System.out.print(i+" | ");
         }
+
+        System.out.println("===========");
+        System.out.println(array[5]);
     }
 }
